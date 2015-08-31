@@ -1,0 +1,9 @@
+MIDlet-1: GTuner,/icon.png,GTuner.GTuner
+MIDlet-Jar-Size: 13978
+MIDlet-Jar-URL: GTuner.jar
+MIDlet-Name: GTuner
+MIDlet-Permissions: javax.microedition.media.control.RecordControl, javax.microedition.io.Connector.file.read, javax.microedition.io.Connector.file.write, javax.microedition.media.control.VideoControl.getSnapshot
+MIDlet-Vendor: Igrek
+MIDlet-Version: 2.3.2
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
